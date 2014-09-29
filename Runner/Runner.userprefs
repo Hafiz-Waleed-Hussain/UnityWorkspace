@@ -1,0 +1,13 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../../../Desktop/SDKTest/Assets/Controller.cs">
+    <Files>
+      <File FileName="../../../../Desktop/SDKTest/Assets/Controller.cs" Line="66" Column="39" />
+      <File FileName="../../../../Desktop/SDKTest/Assets/Plugins/Android/AndroidManifest.xml" Line="72" Column="67" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Extensions/Collider2DExtensions.cs">
+    <Files>
+      <File FileName="Assets/Scripts/ZoomRotateGesture.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Gui.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/TextButtonClick.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Extensions/Collider2DExtensions.cs" Line="8" Column="44" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
